@@ -6,5 +6,5 @@
 - 📫 How to reach me: 
   LinkedIn: https://www.linkedin.com/in/sergiosillero/
   Mail: s.sillerom@gmail.com
-- I won recently the first prize of the most important Spanish Data Science competition organized by Cajamar Bank with @Jimena Areta
+- I won the first prize of the most important Spanish Data Science competition organized by Cajamar Bank
 - I'm currently working as Data Engineer in @MAPFRE
