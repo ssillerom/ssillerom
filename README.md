@@ -7,4 +7,4 @@
   LinkedIn: https://www.linkedin.com/in/sergiosillero/
   Mail: s.sillerom@gmail.com
 - I won the first prize of the most important Spanish Data Science competition organized by Cajamar Bank
-- I'm currently working as Data Engineer in @MAPFRE
+- I'm currently Head of Data and IA Platform in @MAPFRE
